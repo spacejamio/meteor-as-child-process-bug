@@ -1,1 +1,0 @@
-{"version":3,"file":"/packages/success2:tests.js","sources":["success2/success-test.coffee"],"names":[],"mappings":";;;;;;;;;AAAA,QAAQ,CAAC,GAAT,CAAa,iBAAb,EAA+B,SAAC,IAAD;SAC7B,IAAI,CAAC,KAAL,CAAW,IAAX,EAAiB,IAAjB,EAD6B;CAA/B;A","sourcesContent":["Tinytest.add \"Success2 - test\",(test)->\n  test.equal true, true"]}
