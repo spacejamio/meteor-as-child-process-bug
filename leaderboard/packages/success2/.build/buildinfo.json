@@ -1,0 +1,63 @@
+{
+  "builtBy": "meteor/10",
+  "sliceDependencies": {
+    "browser.json": {
+      "files": {
+        "/home/juan/Dropbox/repos/spacejam/tests/leaderboard/packages/success2/package.js": "60b2bcb045257c558199d08fd880c445b06d33cb",
+        "/home/juan/Dropbox/repos/spacejam/tests/leaderboard/packages/success2/success.coffee": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/meteor/package.js": "994e95dac25fa351bc0ec7d121eec875482e79d2",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/meteor/plugin/basic-file-types.js": "711f7c01e3384ae8ed04ed823281ad2e16946119",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/coffeescript/package.js": "fb4407b53beeb4717e68e4eea3d1450570d84178",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/coffeescript/plugin/compile-coffeescript.js": "3a17378d78d181e93ea46436e9cafde2645512c9"
+      },
+      "directories": []
+    },
+    "os.json": {
+      "files": {
+        "/home/juan/Dropbox/repos/spacejam/tests/leaderboard/packages/success2/package.js": "60b2bcb045257c558199d08fd880c445b06d33cb",
+        "/home/juan/Dropbox/repos/spacejam/tests/leaderboard/packages/success2/success.coffee": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/meteor/package.js": "994e95dac25fa351bc0ec7d121eec875482e79d2",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/meteor/plugin/basic-file-types.js": "711f7c01e3384ae8ed04ed823281ad2e16946119",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/coffeescript/package.js": "fb4407b53beeb4717e68e4eea3d1450570d84178",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/coffeescript/plugin/compile-coffeescript.js": "3a17378d78d181e93ea46436e9cafde2645512c9"
+      },
+      "directories": []
+    },
+    "tests.browser.json": {
+      "files": {
+        "/home/juan/Dropbox/repos/spacejam/tests/leaderboard/packages/success2/package.js": "60b2bcb045257c558199d08fd880c445b06d33cb",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/meteor/package.js": "994e95dac25fa351bc0ec7d121eec875482e79d2",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/meteor/plugin/basic-file-types.js": "711f7c01e3384ae8ed04ed823281ad2e16946119",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/coffeescript/package.js": "fb4407b53beeb4717e68e4eea3d1450570d84178",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/coffeescript/plugin/compile-coffeescript.js": "3a17378d78d181e93ea46436e9cafde2645512c9",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/tinytest/package.js": "59df393052590f92672f79d18e7271fbbd8e4740"
+      },
+      "directories": []
+    },
+    "tests.os.json": {
+      "files": {
+        "/home/juan/Dropbox/repos/spacejam/tests/leaderboard/packages/success2/package.js": "60b2bcb045257c558199d08fd880c445b06d33cb",
+        "/home/juan/Dropbox/repos/spacejam/tests/leaderboard/packages/success2/success-test.coffee": "d17c35a9f54a34b5a02d1e578902fd321d3e831f",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/meteor/package.js": "994e95dac25fa351bc0ec7d121eec875482e79d2",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/meteor/plugin/basic-file-types.js": "711f7c01e3384ae8ed04ed823281ad2e16946119",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/coffeescript/package.js": "fb4407b53beeb4717e68e4eea3d1450570d84178",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/coffeescript/plugin/compile-coffeescript.js": "3a17378d78d181e93ea46436e9cafde2645512c9",
+        "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/tinytest/package.js": "59df393052590f92672f79d18e7271fbbd8e4740"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/home/juan/Dropbox/repos/spacejam/tests/leaderboard/packages/success2/package.js": "60b2bcb045257c558199d08fd880c445b06d33cb"
+    },
+    "directories": []
+  },
+  "pluginProviderPackages": {
+    "success2": "/home/juan/Dropbox/repos/spacejam/tests/leaderboard/packages/success2",
+    "meteor": "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/meteor",
+    "coffeescript": "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/coffeescript",
+    "tinytest": "/home/juan/Dropbox/repos/lavaina/repos/meteor/packages/tinytest"
+  },
+  "source": "/home/juan/Dropbox/repos/spacejam/tests/leaderboard/packages/success2"
+}

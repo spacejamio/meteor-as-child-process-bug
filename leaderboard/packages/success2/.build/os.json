@@ -1,0 +1,26 @@
+{
+  "format": "unipackage-slice-pre1",
+  "packageVariables": [
+    {
+      "name": "__coffeescriptShare"
+    }
+  ],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "coffeescript"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "os/packages/success2.js",
+      "length": 660,
+      "offset": 0,
+      "servePath": "/packages/success2.js",
+      "sourceMap": "os/packages/success2.js.map"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "format": "unipackage-slice-pre1",
+  "noExports": true,
+  "packageVariables": [],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "coffeescript"
+    },
+    {
+      "package": "tinytest"
+    },
+    {
+      "package": "success2"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "tests.browser/packages/success2tests.js",
+      "length": 0,
+      "offset": 0,
+      "servePath": "/packages/success2:tests.js",
+      "sourceMap": "tests.browser/packages/success2tests.js.map"
+    }
+  ]
+}
